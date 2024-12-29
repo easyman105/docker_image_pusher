@@ -3,3 +3,4 @@ nginx
 #支持指定架构
 --platform=linux/arm64 xhongc/music_tag_web
 --platform=linux/arm64 hanxi/xiaomusic
+hanxi/xiaomusic

@@ -3,3 +3,4 @@
 --platform=linux/arm64 xhongc/music_tag_web
 --platform=linux/arm64 hanxi/xiaomusic
 hanxi/xiaomusic
+--platform=linux/arm64 homeassistant/home-assistant

@@ -1,5 +1,4 @@
 #支持私库
 #支持指定架构
---platform=linux/arm64 hanxi/xiaomusic
-hanxi/xiaomusic
+--platform=linux/arm64 hanxi/xiaomusic:latest
 --platform=linux/arm64 homeassistant/home-assistant
